@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+     background-color: black;
+     border: 2px green solid;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: courier new;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+}
+
+#origami1{
+   background-color:lightcoral;
+}
+
+#origami2{
+  background-color:lightcoral; 
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#yay:hover
+{
+    border-radius: 30%;
+}
+
+#yay2:hover
+{
+    border-radius: 30%;
+}
+
+#yay3:hover
+{
+    border-radius: 30%;
+}
+
+#yay4:hover
+{
+    border-radius: 30%;
+}
